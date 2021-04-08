@@ -1,0 +1,45 @@
+.login {
+    display: flex;
+    justify-content: space-around;
+    padding: 160px 0;
+}
+
+.lf2 {
+    width: 400px;
+}
+
+.inputlogin {
+    border: none;
+    background-color: #EBEBEB;
+    margin-bottom: 15px;
+    border-radius: 2px;
+    width: 400px;
+    height: 45px;
+    padding: 12px 20px;
+    font-family: 'Segoe UI';
+}
+
+.inputlogin::placeholder {
+    letter-spacing: 0.5px;
+}
+
+.btn-login {
+    background: repeating-linear-gradient(to right top, #FFAA00, #FFAA00);
+    letter-spacing: 1px;
+}
+
+.inputlogin:focus {
+    outline: none;
+}
+
+.page-content {
+    padding-top: 7rem;
+}
+
+.judul {
+    letter-spacing: 1px;
+}
+
+.haltab {
+    padding: 0px 350px;
+}
