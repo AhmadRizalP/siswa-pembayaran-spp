@@ -5,19 +5,20 @@ Tugas Akhir dari sekolahan
 ## Dokumentasi
 
 ## Login
-![image](https://user-images.githubusercontent.com/63836648/116701136-c313cf80-a9f1-11eb-9008-c59e388cbdd9.png)
 ![Screenshot (527)](https://user-images.githubusercontent.com/63836648/116707527-fb6adc00-a9f8-11eb-919d-8b3189eba63a.png)
 
 ## Tagihan
 
 Tagihan yang belum dibayar dapat dilakukan pembayaran
 
-![image](https://user-images.githubusercontent.com/63836648/116701273-eb9bc980-a9f1-11eb-8473-7350909ec611.png)
-![image](https://user-images.githubusercontent.com/63836648/116701285-f191aa80-a9f1-11eb-9e85-cde5599a8052.png)
+![Screenshot (528)](https://user-images.githubusercontent.com/63836648/116707779-3ff67780-a9f9-11eb-8ba5-562282c71c0d.png)
+![Screenshot (530)](https://user-images.githubusercontent.com/63836648/116707798-44bb2b80-a9f9-11eb-8337-ddc810f2d5a4.png)
+
 
 ## Pembayaran ( History )
 
 Setiap history yang sudah di acc oleh admin akan terdapat bedanya dengan yang belum di acc
 
-![image](https://user-images.githubusercontent.com/63836648/116701363-05d5a780-a9f2-11eb-83ec-a7084bf39563.png)
+![Screenshot (529)](https://user-images.githubusercontent.com/63836648/116707817-497fdf80-a9f9-11eb-8a26-5888a6e6cdeb.png)
+
 
