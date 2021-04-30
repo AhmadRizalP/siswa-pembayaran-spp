@@ -6,6 +6,7 @@ Tugas Akhir dari sekolahan
 
 ## Login
 ![image](https://user-images.githubusercontent.com/63836648/116701136-c313cf80-a9f1-11eb-9008-c59e388cbdd9.png)
+![Screenshot (527)](https://user-images.githubusercontent.com/63836648/116707527-fb6adc00-a9f8-11eb-919d-8b3189eba63a.png)
 
 ## Tagihan
 
